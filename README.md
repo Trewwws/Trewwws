@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Striving to develop in different areas that interest me (AI, Front-end, Back-end)<br>🎓Currently studying: Node.js, TypeScript<br>🎯Goals: find my first job, expand my portfolio with interesting projects,  improve my english</p>
+<p align="left">✨Striving to develop in different areas that interest me (AI, Front-end, Back-end)<br>🎓Currently studying: C, C++<br>🎯Goals: find my first job, expand my portfolio with interesting projects,  improve my english</p>
 
 ###
 
